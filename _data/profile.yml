@@ -1,10 +1,10 @@
-primary_name: "Yifan Zhang"
+primary_name: "Yifan Zhang(张一凡)"
 secondary_name: ""
-navbar_name: "Yifan Zhang"
+navbar_name: "Yifan Zhang(张一凡)"
 
 positions:
   - name: Phd, Beihang University
-    logo: /assets/images/badges/THU_badge.png  # Logo is optional
+    logo: /assets/images/badges/校徽.png  # Logo is optional
 
 
 email: "zb2557237@buaa.edu.cn"
@@ -41,13 +41,13 @@ short_bio: >-
 
 
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/张一凡图片.png
 # portrait_caption: >-
   # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
   - name: Beihang University
-    logo: /assets/images/badges/THU_badge.png
+    logo: /assets/images/badges/校徽.png
     position: Phd. in Electronic Information
     date: Sep. 2025 - Present
 # - name: Massachusetts Institute of Technology
