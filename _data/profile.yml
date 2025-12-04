@@ -17,15 +17,23 @@ github: zhangyifan25
 
 
 short_bio_text_justify: false
-short_bio: >-
+short_bio: >
   <p>
-    I am a PhD student majoring in Electronic Information at Beihang University.<br/>
-    
-    My supervisors are Prof. Zhiguo Jiang (姜志国) and Prof. Haopeng Zhang (张浩鹏).<br/>
-    
-    My research interests mainly lie in weakly supervised semantic segmentation of remote sensing images and visual language large-scale models. .<br/>.<br/>
-
-    🤝 Welcome to academic exchange
+    I am a Ph.D. student in Electronic Information at Beihang University, supervised by Prof. Zhiguo Jiang (姜志国) and Prof. Haopeng Zhang (张浩鹏).
+  </p>
+  
+  <p>
+    <strong>Research Interests:</strong>
+    <ul>
+      <li>Weakly supervised semantic segmentation of remote sensing images</li>
+      <li>Vision-language large-scale models</li>
+      <li>Multimodal learning in remote sensing</li>
+    </ul>
+  </p>
+  
+  <p>
+    🤝 Welcome to academic collaboration and exchange!
+  </p>
    
 portrait_url: /assets/images/photos/张一凡图片.png
 # portrait_caption: >-
