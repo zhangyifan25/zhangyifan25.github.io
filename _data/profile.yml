@@ -3,20 +3,18 @@ secondary_name: ""
 navbar_name: "Yifan Zhang"
 
 positions:
-  - name: Undergraduate Student, Tsinghua University
+  - name: Phd, Beihang University
     logo: /assets/images/badges/THU_badge.png  # Logo is optional
 
 
 email: "zb2557237@buaa.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: RLhDYpjOQcMC  # This is an example, replace it with your own Google Scholar ID
+#gscholar: RLhDYpjOQcMC  # This is an example, replace it with your own Google Scholar ID
 github: zhangyifan25
-orcid: 0009-0006-3114-6960
-twitter: _siqi_song_  # Do not include the '@' symbol
-wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+#orcid: 0009-0006-3114-6960
+#twitter: _siqi_song_  # Do not include the '@' symbol
+#wechat_qrcode: /assets/images/etc/wechat.jpg
+
 
 short_bio_text_justify: false
 short_bio: >-
@@ -41,32 +39,17 @@ short_bio: >-
     <strong style="color: red;">I am seeking a Ph.D. position starting from Fall 2026!</strong> Feel free to drop me an email if you are interested in my research or have any questions!
   </p>
 
-#    My interests focus on Robotics and Embodied Intelligence, in particular on the following aspects:
-#    <li><strong>Reinforcement Learning</strong>: How can Reinforcement Learning scale, and how can this scaling accelerate robotic learning?</li>
-#    <li><strong>Leveraging Human World Knowledge for Robotic Perception</strong>: How can low-cost, readily available data be used to provide prior knowledge and enhance the scalability of robotic systems?</li>
-#    <li><strong>Advancing Robot-Environment-Human Interaction</strong>: How can we conceptualize the modality of action and its effects on the real world? Given the complex dynamics of reality, how can robots achieve rich and meaningful interactions with both the environment and humans?</li>
 
-#    My interests focus on Robotic Intelligence and Reinforcement Learning, in particular on the following aspects:
-#    <li><strong>Reinforcement Learning</strong>: How Reinforcement Learning scales and how can this boost robotic learning?</li>
-#    <li><strong>Advancing Robot-Environment-Human Interaction</strong>: With the intricate dynamics of reality, how can robots seamlessly engage in complex yet meaningful interactions with the environment and humans?</li>
-#    <li><strong>Learning the Embodiment and Understanding the Environment</strong>: How do robotic embodiments grasp their own physical capabilities and properties, as well as the characteristics of the surrounding environment? Furthermore, how does this knowledge shape their decision-making processes and execution strategies?</li>
-#    <li><strong>Multi-agent Collaboration</strong>: How can multiple embodiments work together to tackle complex problems?</li>
-
-#     My research interests focus on Embodied Intelligence and Robotics, in particular on the following aspects:
-#     <li><strong>Advancing Robot-Environment-Human Interaction</strong>: With the intricate dynamics of reality, how can robots seamlessly engage in complex yet meaningful interactions with the environment and humans?</li>
-#     <li><strong>Learning the Embodiment and Understanding the Environment</strong>: How do robotic embodiments grasp their own physical capabilities and properties, as well as the characteristics of the surrounding environment? Furthermore, how does this knowledge shape their decision-making processes and execution strategies?</li>
-#     <li><strong>Reinforcement Learning and Self-Supervised Learning</strong>: How do these methodologies enhance the efficiency of learning for embodiments?</li>
-#     <li><strong>Multi-agent Collaboration</strong>: How can multiple embodiments work together to tackle complex problems?</li>
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
   # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-  - name: Tsinghua University
+  - name: Beihang University
     logo: /assets/images/badges/THU_badge.png
-    position: B.S. in Electonic Engineering
-    date: Sep. 2021 - Present
+    position: Phd. in Electronic Information
+    date: Sep. 2025 - Present
 # - name: Massachusetts Institute of Technology
 #   logo: /assets/images/badges/MIT_Social_circle.png
 #   position: >- 
@@ -82,8 +65,8 @@ education:
 
 awards:
 - name: Chinese National Scholarship
+  date: 2025
+- name: Scholarship for Comprehensive Excellence, Beihang University
+  date: 2025
+- name: Scholarship for Comprehensive Excellence, Beihang University
   date: 2024
-- name: Scholarship for Comprehensive Excellence, Tsinghua University
-  date: 2023
-- name: Scholarship for Comprehensive Excellence, Tsinghua University
-  date: 2022
