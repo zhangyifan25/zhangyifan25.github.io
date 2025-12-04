@@ -1,16 +1,16 @@
-primary_name: "Siqi Song"
+primary_name: "Yifan Zhang"
 secondary_name: ""
-navbar_name: "Siqi Song"
+navbar_name: "Yifan Zhang"
 
 positions:
   - name: Undergraduate Student, Tsinghua University
     logo: /assets/images/badges/THU_badge.png  # Logo is optional
 
 
-email: "song_siqi@outlook.com"
+email: "zb2557237@buaa.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: RLhDYpjOQcMC  # This is an example, replace it with your own Google Scholar ID
-github: song-siqi
+github: zhangyifan25
 orcid: 0009-0006-3114-6960
 twitter: _siqi_song_  # Do not include the '@' symbol
 wechat_qrcode: /assets/images/etc/wechat.jpg
